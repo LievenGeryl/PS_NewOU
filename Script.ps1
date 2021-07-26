@@ -1,4 +1,4 @@
-#Doordat het in de loop zit kun je meerdere OU's aanmaken, en als de OU invalid zou zijn
+#Doordat het in de loop zit kun je meerdere OU's aanmaken, ook als de OU invalid zou zijn
 while($true)
 {
 
